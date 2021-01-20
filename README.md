@@ -10,4 +10,5 @@ if you installed python with default options, you just need to enter you cmd and
 
 # Execute the script 
 - Open the script file, select the Windows Explorer Address Bar and type "cmd" 
-- Type "py" or "python" + 
+- Type "py" or "python" + "All_champs_script.py"
+
