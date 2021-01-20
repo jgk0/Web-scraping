@@ -1,5 +1,5 @@
 # Web-scraping
-Using web scrape to download all champion select images
+Using web scrape to download all lol champion select images
 
 # Requirements
 - python3 
